@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, Python, SQL  
+- **Languages:** Java, Python, SQL, HTML,CSS  
 - **Frameworks:**  Hibernate  
 - **Databases:** MySQL  
 - **Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
