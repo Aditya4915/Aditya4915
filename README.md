@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack  
 - **Languages:** Java, Python, SQL  
-- **Frameworks:** Spring Boot, Hibernate  
+- **Frameworks:**  Hibernate  
 - **Databases:** MySQL  
 - **Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
 
