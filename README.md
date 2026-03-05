@@ -1,22 +1,21 @@
 # 👋 Hi, I'm Aditya Darekar  
 
-🎓 MCA Student at Savitribai Phule Pune University  
 💻 Aspiring Software Engineer  
 🚀 Passionate about Web Development 
    Testing & Problem-Solving  
 ---
  
 ## 🚀 About Me  
-- 💻 I’m currently learning **Spring Boot, Hibernate**  
-- 🔍 Exploring **Software Development  and Testing**  
+- 💻 I’m currently learning **React Js**  
+- 🔍 Exploring **Software Development  and web Development**  
 - 📚 Love solving problems and building real-world projects  
 - 🌱 Always curious to learn new technologies  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, Python, SQL, HTML,CSS  
-- **Frameworks:**  Hibernate  
+- **Languages:** Java, Python, SQL, HTML,CSS, JavaScript 
+- **Frameworks:**  Hibernate, Flask  
 - **Databases:** MySQL  
 - **Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
 
